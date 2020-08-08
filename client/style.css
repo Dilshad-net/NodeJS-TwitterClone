@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+
+}
+header .title {
+  text-align: center;
+}
+.loading {
+  width: 50%;
+  margin: 50%;
+}
+main {
+  text-align: center;
+  align-items: center;
+}
